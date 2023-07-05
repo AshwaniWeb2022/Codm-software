@@ -1,0 +1,11 @@
+DirectoryIndex salesforce_consulting_partner index.php
+
+ErrorDocument 404 /public/404.html
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+
+
