@@ -16,7 +16,7 @@
     <div class="container mb-5">
         <div class="section-heading">
             About
-            <span>CodM softwaressssss</span>
+            <span>CodM software</span>
             <div class="section-line"></div>
         </div>
         <div class="text-center aboutCodmHome">CodM was founded in 2021 and works in IT sector for providing the best Salesforce CRM implementation and
